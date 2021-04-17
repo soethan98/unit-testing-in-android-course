@@ -1,4 +1,5 @@
 package com.techyourchance.mockitofundamentals.exercise5.networking;
 
-public class NetworkErrorException extends Exception {
+public class
+NetworkErrorException extends Exception {
 }
